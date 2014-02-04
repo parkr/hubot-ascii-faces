@@ -1,0 +1,30 @@
+{
+  "name": "hubot-ascii-faces",
+  "version": "1.0.0",
+  "description": "Bring ASCII faces to your Hubot-powered chat rooms.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parkr/hubot-ascii-faces"
+  },
+  "keywords": [
+    "hubot",
+    "ascii",
+    "faces",
+    "face",
+    "me"
+  ],
+  "author": "Parker Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkr/hubot-ascii-faces/issues"
+  },
+  "homepage": "https://github.com/parkr/hubot-ascii-faces",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "hubot": "~2.7.1"
+  }
+}

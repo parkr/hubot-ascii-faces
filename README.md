@@ -1,7 +1,7 @@
 hubot-ascii-faces
 =================
 
-## Bring ASCII faces to your Hubot-powered chat rooms.
+Bring ASCII faces to your Hubot-powered chat rooms.
 
 ### Usage:
 
@@ -17,4 +17,7 @@ hubot face me
 
 ### Credit
 
-The ascii-faces stuff is all maxogden's.
+The ascii-faces stuff is all maxogden's, hubot code is parkr's.
+
+Check out [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) by
+@maxogden.

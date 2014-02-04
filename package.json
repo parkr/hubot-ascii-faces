@@ -1,6 +1,6 @@
 {
   "name": "hubot-ascii-faces",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bring ASCII faces to your Hubot-powered chat rooms.",
   "main": "index.coffee",
   "scripts": {

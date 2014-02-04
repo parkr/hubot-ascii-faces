@@ -1,4 +1,4 @@
-var cool = require('cool-ascii-faces')
+cool = require('cool-ascii-faces')
 
 module.exports = (robot) ->
   robot.respond /face me/i, (msg) ->
